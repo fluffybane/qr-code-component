@@ -44,7 +44,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Starting with the HTML structure of the page helps to give an idea of how the CSS will look and the classes that will be required.
 
-To see how you can add code snippets, see below:
+A few of my favourite code snippets:
 
 ```html
 <div class="card">
